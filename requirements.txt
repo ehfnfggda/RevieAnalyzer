@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+pandas>=2.0.0
+plotly>=5.18.0
+transformers>=4.38.0
+torch>=2.0.0
+pymorphy2>=0.9.1
+undetected-chromedriver>=3.5.0
+webdriver-manager>=4.0.0
+beautifulsoup4>=4.12.0
